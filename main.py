@@ -48,7 +48,6 @@ for i in range(len(s2)):
         print(s1[i], end='')
     if s2[i] != "." or "" :
         print(" ", end='')
-print("\n")
 
 print("word      |POS    |Part-of-speech tagging")
 print("--------------------------------------------")
